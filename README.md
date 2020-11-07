@@ -1,2 +1,2 @@
 # Tableau-Dashboard
-A Wallmart Dashboard made using Tableau!
+A Walmart Dashboard made using Tableau!
